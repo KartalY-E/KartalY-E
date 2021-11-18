@@ -88,4 +88,26 @@
     <img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=kartaly-e&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact"
         alt="kartaly-e" />
+<br>
+
+<div align="center">
+<h1 align="center">Projects</h1>
+<img align="center" src="foody-recipes.jpg" width="50%">
+<br>
+<p style="padding:20px">
+<h3 align="center">Laravel 8 & Vue js ,Food recipes</h3>
+Small project showing meals from around the world.
+<a href="https://github.com/KartalY-E/foody-recipes#readme">Repo
+</a>
 </p>
+<br>
+<img align="center" src="webit-opdracht.jpg" width="50%">
+<p style="padding:20px">
+<h3 align="center">Laravel 8 ,Auction-website</h3>
+Small project where users can bid on art.
+<a href="https://github.com/KartalY-E/Webit-opdracht#readme">Repo
+</a>
+</p>
+</div>
+</p>
+
