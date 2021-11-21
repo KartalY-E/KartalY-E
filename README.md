@@ -95,7 +95,7 @@
 <img align="center" src="foody-recipes.jpg" width="50%">
 <br>
 <p style="padding:20px">
-<h3 align="center">Laravel 8 & Vue js ,Food recipes</h3>
+<h3 align="center">Laravel 8 & Vue js ~ Food recipes</h3>
 Small project showing meals from around the world.
 <a href="https://github.com/KartalY-E/foody-recipes#readme">Repo
 </a>
@@ -103,7 +103,7 @@ Small project showing meals from around the world.
 <br>
 <img align="center" src="webit-opdracht.jpg" width="50%">
 <p style="padding:20px">
-<h3 align="center">Laravel 8 ,Auction-website</h3>
+<h3 align="center">Laravel 8 ~ Auction-website</h3>
 Small project where users can bid on art.
 <a href="https://github.com/KartalY-E/Webit-opdracht#readme">Repo
 </a>
@@ -117,8 +117,3 @@ Small api with fake addresses and a random user assign to it
 </p>
 </div>
 </p>
-
-
-
-
-Description
