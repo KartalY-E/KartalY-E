@@ -109,12 +109,13 @@ Small project where users can bid on art.
 </a>
 </p>
 <br>
-<img align="center" src="api-data.jpg" width="50%">
 <p style="padding:20px">
 <h3 align="center">Laravel 8 ~ address-api</h3>
 Small api with fake addresses and a random user assign to it
 <a href="https://github.com/KartalY-E/address-api#readme">Repo
 </a>
+
+<img align="center" src="api-data.jpg" width="20%">
 </p>
 </div>
 </p>
