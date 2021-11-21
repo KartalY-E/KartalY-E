@@ -114,8 +114,6 @@ Small project where users can bid on art.
 Small api with fake addresses and a random user assign to it
 <a href="https://github.com/KartalY-E/address-api#readme">Repo
 </a>
-
-<img align="center" src="api-data.jpg" width="20%">
 </p>
 </div>
 </p>
