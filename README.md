@@ -108,7 +108,7 @@ Small project showing meals from around the world.
 <p style="padding:20px">
 <h3 align="center">Symfony 5 - Real-estate</h3>
 Small real-estate website. Where users can add there property for sale/rent.
-<a href="https://github.com/KartalY-E/address-api#readme">Repo
+<a href="https://github.com/KartalY-E/immoweb#readme">Repo
 </a>
 </p>
 <br>
