@@ -93,27 +93,42 @@
 
 <div align="center">
 <h1 align="center">Projects</h1>
-<img align="center" src="foody-recipes.jpg" width="50%">
+<img align="center" src="images/foody-recipes.jpg" width="50%">
 <br>
 <p style="padding:20px">
-<h3 align="center">Laravel 8 & Vue js ~ Food recipes</h3>
+<h3 align="center">Laravel 8 & Vue js - Food recipes</h3>
 Small project showing meals from around the world.
 <a href="https://github.com/KartalY-E/foody-recipes#readme">Repo
 </a>
 </p>
 <br>
-<img align="center" src="webit-opdracht.jpg" width="50%">
+<hr>
+<br>
+<img align="center" src="images/home-page.PNG" width="50%">
 <p style="padding:20px">
-<h3 align="center">Laravel 8 ~ Auction-website</h3>
-Small project where users can bid on art.
-<a href="https://github.com/KartalY-E/Webit-opdracht#readme">Repo
+<h3 align="center">Symfony 5 - Real-estate</h3>
+Small real-estate website. Where users can add there property for sale/rent.
+<a href="https://github.com/KartalY-E/address-api#readme">Repo
 </a>
 </p>
 <br>
+<hr>
+<br>
+<img align="center" src="images/api-data.jpg" width="20%">
 <p style="padding:20px">
-<h3 align="center">Laravel 8 ~ address-api</h3>
-Small api with fake addresses and a random user assign to it
+<h3 align="center">Laravel 8 - address-api</h3>
+Small api with fake addresses and a random user assign to it.
 <a href="https://github.com/KartalY-E/address-api#readme">Repo
+</a>
+</p>
+<br>
+<hr>
+<br>
+<img align="center" src="images/webit-opdracht.jpg" width="50%">
+<p style="padding:20px">
+<h3 align="center">Laravel 8 - ART Auction-website</h3>
+Small project where users can bid on art.
+<a href="https://github.com/KartalY-E/Webit-opdracht#readme">Repo
 </a>
 </p>
 </div>
